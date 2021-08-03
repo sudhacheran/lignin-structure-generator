@@ -5,7 +5,7 @@ Structure of lignin macromolecule consist of several repeating units (monolignol
 
 Lignin structure generator uses sequence-controlled structure generation approach. Workflow includes folloing functionalities 
 
-a) Sequencing of lignin monomers and conditional linkage generation \n
+a) Sequencing of lignin monomers and conditional linkage generation <br>
 b) Generating the topological matrices and molecular graph as directed graph representation 
 c) Converting the directed graphs into molecular structures 
 d) Validation the dataset against the experimental observations and simulated structures from previous studies 
