@@ -1,4 +1,4 @@
-# LigninStructureGenerator
+# Lignin Structure Generator
 Molecular structure simulation tool for lignin macromolecule
 
 Structure of lignin macromolecule consist of several repeating units (monolignols), arranged in random sequences. During polymerization of lignin macromolecule, monomeric phenylpropane units (C9 units) are converted into radical species by dehydrogenation. The lignin polymer is subsequently formed by coupling reactions of radicals.
