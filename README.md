@@ -5,6 +5,8 @@ b) Generating the topological matrices and molecular graph as directed graph rep
 c) Converting the directed graphs into molecular structures <br>
 d) Validation the dataset against the experimental observations and simulated structures from previous studies <br>
 e) Storing the valid structures forming a dataset <br>
+![image](https://user-images.githubusercontent.com/18223595/128611620-cb45bffc-34d1-42fc-ac96-e33bd8ed3020.png)
+
 
 ## Dependencies (to run the tool)
 1) Lignin generator requires JRE 8 or newer version.
