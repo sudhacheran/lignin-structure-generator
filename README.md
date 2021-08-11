@@ -56,7 +56,7 @@ Generated structures will be stored in 'output' folder
   
 ---
 
-# Related resoruces
+# Related resources
 > Sudha Eswaran (2021) "Molecular structural dataset of lignin macromolecule"  Manuscript
 
 
