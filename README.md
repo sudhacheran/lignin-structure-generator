@@ -17,10 +17,8 @@ e) Storing the valid structures forming a dataset <br>
 ---
 
 ## Executable version for download
-Link to the jar file
-*.bat file for windows
 
----
+[Lignin structure generator](https://github.com/sudhacheran/LigninStructureGenerator/tree/main/Executable%20Jar%20and%20Config)
 
 ### Configuration File
 
