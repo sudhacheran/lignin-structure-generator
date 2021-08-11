@@ -27,17 +27,13 @@ Link to the jar file
 ### Configuring structural features for Lignin generator
 project-config.yaml
 
-[] Configure either single DP (or min & max dp for generating structures in a range of DP.
-
--- Degree of polymerization(dp)
+[x] Degree of polymerization(dp): Configure either single DP (or min & max dp for generating structures in a range of DP).
 dp: 0
-
--- To generate structure for a range of DPs
+(or)
 min_dp: 3
 max_dp: 25
 
-#### Experimental observation from NMR or other analysis on Bond precentages
-###### Add in the percentage (%) values
+[x] Bond proportion: Experimental observation from NMR or other analysis results (Add in the percentage (%) values)
 bondconfig:
   BO4: 61
   BB: 12
@@ -46,25 +42,21 @@ bondconfig:
   _55: 1
   DBDO: 1
 
-#### Please use either of S/G ratio or Monomer percentages. If both the values are given S/G ratio takes precedence
-
-#### S/G ratio
+[X] Monomer proportion: Use either S/G ratio or Monomer percentages. If both the values are given S/G ratio takes precedence
 s_g_ratio: 1.8      # set to -1 to use S/G/H percentage values below
-
-##### Experimental observation from NMR or other analysis on Monomer precentages
-##### Add in the percentage(%) values
-monoconfig:
+(or)
+monoconfig:  # percentage(%) values
   G: 32
   S: 68
   H: 0
 
-#### For individual lignin chains
+[X] Output formats:  Stored as individual structurual definition
 png: false   # 2D structure  
 matrices: false   # Adjacency and Connectivity Matrix
 sdf: true   # *.mol or SDF file
 cml: false  # CML from CDK tool
 
-#### Json contains SMILES and evaluatied properties of the stuctures generated
+[X] Json contains SMILES and evaluatied properties of the stuctures generated
 json: true
 
 ---
