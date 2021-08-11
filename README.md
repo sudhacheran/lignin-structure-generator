@@ -27,7 +27,7 @@ Link to the jar file
 ### Configuring structural features for Lignin generator
 project-config.yaml
 
-- Configure either single DP (or min & max dp for generating structures in a range of DP.
+[] Configure either single DP (or min & max dp for generating structures in a range of DP.
 
 -- Degree of polymerization(dp)
 dp: 0
