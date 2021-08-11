@@ -9,6 +9,9 @@ e) Storing the valid structures forming a dataset <br>
 
 ![image](https://user-images.githubusercontent.com/18223595/129077431-3b68a856-5e16-41ce-b3ae-70b5b04cbebc.png)
 
+## Related resoruces
+> Sudha Eswaran (2021) "Molecular structural dataset of lignin macromolecule"  Manuscript
+
 
 ## Dependencies (to run the tool)
 1) Lignin generator requires JRE 8 or newer version.
@@ -35,8 +38,6 @@ e) Storing the valid structures forming a dataset <br>
   
 ---
 
-## Related resoruces
-> Sudha Eswaran (2021) "Molecular structural dataset of lignin macromolecule"  Manuscript
 
 
    
