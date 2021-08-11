@@ -29,7 +29,7 @@ project-config.yaml
 | Properties                   | Values                | Comments                              |
 | ---------------------------- |---------------------  | --------|
 | Degree of polymerization(dp) |dp: 0 (or)  min_dp: 3<br>  max_dp: 25 | Configure either single DP (or min & max dp for generating structures in a range of DP)|
-| Bond proportion | bondconfig: <br> _BO4: 61 <br> BB: 12 <br>   B5: 3 <br>   4O5: 2 <br>  55: 1 <br>  DBDO: 1_. | Experimental observation from NMR or other analysis results (Add in the percentage (%) values) |
+| Bond proportion | bondconfig: <br>    _BO4: 61 <br>   BB: 12 <br>     B5: 3 <br>   4O5: 2 <br>  55: 1 <br>  DBDO: 1_. | Experimental observation from NMR or other analysis results (Add in the percentage (%) values) |
 | Monomer proportion | s_g_ratio: 1.8   (or)
     monoconfig:  # percentage(%) values <br>
       G: 32
