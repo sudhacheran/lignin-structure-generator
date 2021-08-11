@@ -37,7 +37,8 @@ Link to the jar file
   
 ---
 
-## Generated Structures
+## Related resoruces
+> Sudha Eswaran (2021) "Molecular structural dataset of lignin macromolecule"  Manuscript
 
 
    
