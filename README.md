@@ -7,7 +7,7 @@ c) Converting the directed graphs into molecular structures <br>
 d) Validation the dataset against the experimental observations and simulated structures from previous studies <br>
 e) Storing the valid structures forming a dataset <br>
 
-![image](https://user-images.githubusercontent.com/18223595/128954471-25de19ed-8fec-4ec2-8a70-22618a5360d7.png)
+![image](https://user-images.githubusercontent.com/18223595/129065805-d9577217-3159-438f-9bad-d7f6f3bac40b.png)
 
 
 
