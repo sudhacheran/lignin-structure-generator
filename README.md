@@ -27,24 +27,24 @@ Link to the jar file
 ### Configuring structural features for Lignin generator
 project-config.yaml
 
--- Degree of polymerization(dp): Configure either single DP (or min & max dp for generating structures in a range of DP).
+- Degree of polymerization(dp): Configure either single DP (or min & max dp for generating structures in a range of DP).
 
-dp: 0
+    dp: 0
 
-(or)
+    (or)
 
-min_dp: 3<br>
-max_dp: 25
+    min_dp: 3<br>
+    max_dp: 25
 
-[x] Bond proportion: Experimental observation from NMR or other analysis results (Add in the percentage (%) values)
+- Bond proportion: Experimental observation from NMR or other analysis results (Add in the percentage (%) values)
 
-bondconfig: 
-  BO4: 61
-  BB: 12
-  B5: 3
-  _4O5: 2
-  _55: 1
-  DBDO: 1
+    bondconfig: 
+      BO4: 61
+      BB: 12
+      B5: 3
+      _4O5: 2
+      _55: 1
+      DBDO: 1
 
 [X] Monomer proportion: Use either S/G ratio or Monomer percentages. If both the values are given S/G ratio takes precedence
 s_g_ratio: 1.8      # set to -1 to use S/G/H percentage values below
