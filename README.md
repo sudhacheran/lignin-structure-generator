@@ -38,7 +38,7 @@ project-config.yaml
 
 - Bond proportion: Experimental observation from NMR or other analysis results (Add in the percentage (%) values)
 
-    bondconfig: 
+    bondconfig: <br>
       BO4: 61
       BB: 12
       B5: 3
@@ -46,22 +46,26 @@ project-config.yaml
       _55: 1
       DBDO: 1
 
-[X] Monomer proportion: Use either S/G ratio or Monomer percentages. If both the values are given S/G ratio takes precedence
+- Monomer proportion: Use either S/G ratio or Monomer percentages. If both the values are given S/G ratio takes precedence
+
 s_g_ratio: 1.8      # set to -1 to use S/G/H percentage values below
+
 (or)
-monoconfig:  # percentage(%) values
+
+monoconfig:  # percentage(%) values <br>
   G: 32
   S: 68
   H: 0
 
-[X] Output formats:  Stored as individual structurual definition
-png: false   # 2D structure  
-matrices: false   # Adjacency and Connectivity Matrix
-sdf: true   # *.mol or SDF file
-cml: false  # CML from CDK tool
+- Output formats:  Stored as individual structurual definition
 
-[X] Json contains SMILES and evaluatied properties of the stuctures generated
-json: true
+    png: false   # 2D structure  <br>
+    matrices: false   # Adjacency and Connectivity Matrix<br>
+    sdf: true   # *.mol or SDF file<br>
+    cml: false  # CML from CDK tool<br>
+
+- Json contains SMILES and evaluatied properties of the stuctures generated
+    json: true   #To write json file
 
 ---
 
