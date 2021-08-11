@@ -39,13 +39,21 @@ e) Storing the valid structures forming a dataset <br>
 ### Instruction to run the jar
 
 Download LigninStructureGenerator.jar and config file to local path  
-_project-config.yaml should be placed within "resource" folder as downloaded [Executable jar and config file](https://github.com/sudhacheran/LigninStructureGenerator/tree/main/Executable%20Jar%20and%20Config)_. 
+_project-config.yaml should be placed within "resource" folder as downloaded from [Executable jar and config file](https://github.com/sudhacheran/LigninStructureGenerator/tree/main/Executable%20Jar%20and%20Config)_. 
+![image](https://user-images.githubusercontent.com/18223595/129085991-d36352f6-ae6c-4727-bfac-00cedf65a305.png)
+
 
 #### Windows
 Set JAVA_HOME in Environment variables
-Configure require structural features in  
+
+Configure require structural features in [project-config.yaml](https://github.com/sudhacheran/LigninStructureGenerator/blob/main/Executable%20Jar%20and%20Config/resources/project_config.yaml)
+
 In the command prompt, executue below command
-> java jar 
+> java jar LigninStructureGenerator.jar
+
+Generated structures will be stored in 'output' folder
+![image](https://user-images.githubusercontent.com/18223595/129085903-555e278c-86ba-489b-8102-e1b8061073e8.png)
+
   
 ---
 
