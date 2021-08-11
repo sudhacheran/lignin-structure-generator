@@ -23,7 +23,7 @@ Link to the jar file
 ---
 
 ### Configuring structural features for Lignin generator
-project-config.yaml
+[project-config.yaml]()
 
 | Properties                   | Values                | Comments                              |
 | ---------------------------- |---------------------  | --------|
