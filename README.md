@@ -22,8 +22,10 @@ Link to the jar file
 
 ---
 
-### Configuring structural features for Lignin generator
-**[project-config.yaml]**(https://github.com/sudhacheran/LigninStructureGenerator/blob/main/Executable%20Jar%20and%20Config/resources/project_config.yaml)
+### Configuration File
+
+[project-config.yaml](https://github.com/sudhacheran/LigninStructureGenerator/blob/main/Executable%20Jar%20and%20Config/resources/project_config.yaml)
+
 
 | Properties                   | Values                | Comments                              |
 | ---------------------------- |---------------------  | --------|
