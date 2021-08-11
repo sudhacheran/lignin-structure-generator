@@ -1,11 +1,14 @@
 # Lignin Structure Generator
 Molecular structure simulation tool for lignin macromolecule. Lignin structure generator uses sequence-controlled structure generation approach. Workflow includes folloing functionalities <br>
+
 a) Sequencing of lignin monomers and conditional linkage generation <br>
 b) Generating the topological matrices and molecular graph as directed graph representation <br>
 c) Converting the directed graphs into molecular structures <br>
 d) Validation the dataset against the experimental observations and simulated structures from previous studies <br>
 e) Storing the valid structures forming a dataset <br>
-![image](https://user-images.githubusercontent.com/18223595/128611647-eb478f84-958f-4369-9028-49eabc11eaf7.png)
+
+![image](https://user-images.githubusercontent.com/18223595/128954471-25de19ed-8fec-4ec2-8a70-22618a5360d7.png)
+
 
 
 
