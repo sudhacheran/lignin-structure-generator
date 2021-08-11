@@ -26,47 +26,22 @@ Link to the jar file
 
 ### Configuring structural features for Lignin generator
 project-config.yaml
-
-- Degree of polymerization(dp): Configure either single DP (or min & max dp for generating structures in a range of DP).
-
-    dp: 0
-
-    (or)
-
-    min_dp: 3<br>
-    max_dp: 25
-
-- Bond proportion: Experimental observation from NMR or other analysis results (Add in the percentage (%) values)
-
-    bondconfig: <br>
-      BO4: 61
-      BB: 12
-      B5: 3
-      _4O5: 2
-      _55: 1
-      DBDO: 1
-
-- Monomer proportion: Use either S/G ratio or Monomer percentages. If both the values are given S/G ratio takes precedence
-
-    s_g_ratio: 1.8      # set to -1 to use S/G/H percentage values below
-
-    (or)
-
+| Properties                   | Values                | Comments                              |
+| ---------------------------- |---------------------  | --------|
+| Degree of polymerization(dp) |dp: 0 (or)  min_dp: 3<br>  max_dp: 25 | Configure either single DP (or min & max dp for generating structures in a range of DP)|
+| Bond proportion | bondconfig: <br>  BO4: 61 <br> BB: 12 <br>   B5: 3 <br>   4O5: 2 <br>  55: 1 <br>  DBDO: 1 | Experimental observation from NMR or other analysis results (Add in the percentage (%) values) |
+| Monomer proportion | s_g_ratio: 1.8   (or)
     monoconfig:  # percentage(%) values <br>
       G: 32
       S: 68
-      H: 0
-
-- Output formats:  Written for individual structurual definition
-
-    png: false   # 2D structure  <br>
+      H: 0 |  Use either S/G ratio or Monomer percentages. If both the values are given S/G ratio takes precedence. # set s_g_ratio to -1 to use S/G/H percentage values |
+|Output formats| png: false   # 2D structure  <br>
     matrices: false   # Adjacency and Connectivity Matrix<br>
     sdf: true   # *.mol or SDF file<br>
-    cml: false  # CML from CDK tool<br>
+    cml: false  # CML from CDK tool<br> | Written for individual structurual definition
 
-- Json: Comprehensive dataset (SMILES and evaluatied properties of the stuctures generated)
-    json: true   #To write json file
-
+|Comprehensive dataset|json: true  | Comprehensive dataset (SMILES and evaluatied properties of the stuctures generated) <br>  #To write json file
+  
 ---
 
 ## Generated Structures
