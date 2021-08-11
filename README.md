@@ -19,9 +19,9 @@ e) Storing the valid structures forming a dataset <br>
 
 ---
 
-## Executable version for download
+## Executable jar and config file for download
 
-[Lignin structure generator](https://github.com/sudhacheran/LigninStructureGenerator/tree/main/Executable%20Jar%20and%20Config)
+[Lignin structure generator tool](https://github.com/sudhacheran/LigninStructureGenerator/tree/main/Executable%20Jar%20and%20Config)
 
 ### Configuration File
 
@@ -35,6 +35,17 @@ e) Storing the valid structures forming a dataset <br>
 | Monomer proportion | _s_g_ratio: 1.8 <br>  (or) <br>  **percentage(%) values** <br>  G: 32 <br> S: 68 <br>  H: 0_. |  Use either S/G ratio or Monomer percentages. If both the values are given S/G ratio takes precedence. <br> -set s_g_ratio to -1 to use S/G/H percentage values |
 |Output formats| **# true/false value** <br> _png: false     <br>    matrices: false   <br>    sdf: true   <br>    cml: false_. | Enabling to store individual structurual definition in any of the formats <br> # 2D structure <br> # Adjacency and Connectivity Matrix <br> # mol file <br> # CML from CDK tool|
 |Comprehensive dataset|**# true/false value** <br> _json: true_.  | Comprehensive dataset (SMILES and evaluatied properties of the stuctures generated) <br>  #To write json file
+  
+### Instruction to run the jar
+
+Download LigninStructureGenerator.jar and config file to local path  
+_project-config.yaml should be placed within "resource" folder as downloaded [Executable jar and config file](https://github.com/sudhacheran/LigninStructureGenerator/tree/main/Executable%20Jar%20and%20Config)_. 
+
+#### Windows
+Set JAVA_HOME in Environment variables
+Configure require structural features in  
+In the command prompt, executue below command
+> java jar 
   
 ---
 
