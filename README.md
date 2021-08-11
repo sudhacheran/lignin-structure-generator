@@ -15,11 +15,15 @@ e) Storing the valid structures forming a dataset <br>
 ## Dependencies (to run the tool)
 1) Lignin generator requires JRE 8 or newer version.
 2) CDK Toolkit (https://cdk.github.io/)   (Integrated in Jar)
+
 ---
+
 ## Executable version for download
 Link to the jar file
 *.bat file for windows
+
 ---
+
 ### Configuring structural features for Lignin generator
 project-config.yaml
 
@@ -61,7 +65,9 @@ cml: false  # CML from CDK tool
 
 #### Json contains SMILES and evaluatied properties of the stuctures generated
 json: true
+
 ---
+
 ## Generated Structures
 
 
