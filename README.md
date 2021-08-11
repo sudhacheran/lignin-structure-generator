@@ -48,23 +48,23 @@ project-config.yaml
 
 - Monomer proportion: Use either S/G ratio or Monomer percentages. If both the values are given S/G ratio takes precedence
 
-s_g_ratio: 1.8      # set to -1 to use S/G/H percentage values below
+    s_g_ratio: 1.8      # set to -1 to use S/G/H percentage values below
 
-(or)
+    (or)
 
-monoconfig:  # percentage(%) values <br>
-  G: 32
-  S: 68
-  H: 0
+    monoconfig:  # percentage(%) values <br>
+      G: 32
+      S: 68
+      H: 0
 
-- Output formats:  Stored as individual structurual definition
+- Output formats:  Written for individual structurual definition
 
     png: false   # 2D structure  <br>
     matrices: false   # Adjacency and Connectivity Matrix<br>
     sdf: true   # *.mol or SDF file<br>
     cml: false  # CML from CDK tool<br>
 
-- Json contains SMILES and evaluatied properties of the stuctures generated
+- Json: Comprehensive dataset (SMILES and evaluatied properties of the stuctures generated)
     json: true   #To write json file
 
 ---
