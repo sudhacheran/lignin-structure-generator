@@ -23,7 +23,7 @@ e) Storing the valid structures forming a dataset <br>
 
 [Lignin structure generator tool](https://github.com/sudhacheran/LigninStructureGenerator/tree/main/Executable%20Jar%20and%20Config)
 
-### Configuration File
+### Configuration file : Configure the structural composition for generating the structure
 
 [project-config.yaml](https://github.com/sudhacheran/LigninStructureGenerator/blob/main/Executable%20Jar%20and%20Config/resources/project_config.yaml)
 
