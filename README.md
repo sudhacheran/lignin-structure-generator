@@ -1,5 +1,5 @@
 # Lignin Structure Generator Tool
-Molecular structure simulation tool for lignin macromolecule. Lignin structure generator uses sequence-controlled structure generation approach for generating polymer chains of length 2 to 25. Workflow includes following functionalities <br>
+Molecular structure simulation tool for lignin macromolecule. Lignin structure generator uses sequence-controlled structure generation approach for generating polymer chains of length 3 to 25. Workflow includes following functionalities <br>
 
 a) Sequencing of lignin monomers and conditional linkage generation <br>
 b) Generating the topological matrices and directed graph representation <br>
