@@ -60,12 +60,11 @@ Generated structures will be stored in 'output' folder
 
 ### G Type 
 #### Model-1
-|![lg_7_1](https://user-images.githubusercontent.com/18223595/129240492-3ccb5cb0-8213-4b19-88a7-b3667586e4d9.png)|
+![image](https://user-images.githubusercontent.com/18223595/129269124-7e7aeb77-f54e-41a7-9d86-8a7f7b343d77.png)
 
 
 #### Model-2
-|![lg_7_31](https://user-images.githubusercontent.com/18223595/129240660-cb810ab2-3823-4709-9168-5dfa58f378a0.png)|
-
+![image](https://user-images.githubusercontent.com/18223595/129269252-0206786f-f105-4881-a4e2-4be8c44cdd04.png)
 
 
 # Related resources
