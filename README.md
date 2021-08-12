@@ -65,7 +65,7 @@ Generated structures will be stored in 'output' folder
 
 
 ## G Type - Model-2
-![image](https://user-images.githubusercontent.com/18223595/129269674-e309061b-0e8d-4836-bca8-c2aecf74e647.png)
+![image](https://user-images.githubusercontent.com/18223595/129270043-7aafc782-dabc-4274-9cf1-b1bc1e4c0e95.png)
 
 
 # Related resources
