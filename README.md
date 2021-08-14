@@ -66,7 +66,7 @@ Configure require structural features in [project-config.yaml](https://github.co
 In the command prompt, executue below command
 > java jar LigninStructureGenerator.jar
 
-Generated structures will be stored in 'output' folder
+Generated structures will be stored in 'output' folder in the location of the jar file
 
 ![image](https://user-images.githubusercontent.com/18223595/129085903-555e278c-86ba-489b-8102-e1b8061073e8.png)
 
