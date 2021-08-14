@@ -4,7 +4,8 @@
 
 Dataset can be downloaded in the following formats. 
 
-[![image](https://user-images.githubusercontent.com/18223595/129457567-6e2528b7-7076-463b-a2b8-c7940c16b537.png)](https://github.com/sudhacheran/LigninStructureGenerator/tree/main/Dataset)
+[![image](https://user-images.githubusercontent.com/18223595/129457605-f9f67df5-0d2c-4250-9800-2aaf96c7195f.png)
+](https://github.com/sudhacheran/LigninStructureGenerator/tree/main/Dataset)
 
 1)	Molecular data file (*.mol):  A widely used chemical structure file format, definition of structures that is supported in most of the molecular dynamics’ software. 
     mol dataset
