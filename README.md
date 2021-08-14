@@ -1,5 +1,14 @@
 # Molecular structural dataset of lignin macromolecule 
 
+## Data records
+
+Dataset can be downloaded in the following formats. 
+1)	Molecular data file (*.mol):  A widely used chemical structure file format, definition of structures that is supported in most of the molecular dynamics’ software. 
+    mol dataset
+2)	Connectivity and adjacency matrices (*.csv)
+	  matrices dataset
+3)  Comprehensive dataset (*.json): Structural definition of all possible sequence in SMILES representation, evaluation structural features such as molecular weight, functional group count and bond proportion of simulated structures
+    JSON dataset
 
 
 ## Lignin Structure Generator Tool
