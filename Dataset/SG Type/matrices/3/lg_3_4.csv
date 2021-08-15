@@ -1,0 +1,12 @@
+Lignin ID,3_4
+Adjacency matrix
+,1S,2S,3G,
+1S,0,1,0,
+2S,0,0,1,
+3G,0,0,0,
+
+Connectivity matrix
+,1S,2S,3G,
+1S,0, B, 0, 
+2S,4, 0, B, 
+3G,0, B, 0, 
