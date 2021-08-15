@@ -65,7 +65,7 @@ e) Storing the valid structures forming a dataset <br>
 4) Set JAVA_HOME in Environment variables
 
 5) In the command prompt, executue below command  (move to folder "Executable_Jar_and_Config_file" extracted in Step 2)
-> ...![image](https://user-images.githubusercontent.com/18223595/129494114-0e056e1a-ee99-44da-bef5-7dd6face2c6a.png)
+> ![image](https://user-images.githubusercontent.com/18223595/129494226-a03431de-0e25-4519-8d83-6dac2cb26107.png)
 
 Generated structures will be stored in 'output' folder in the location of the jar file
 
