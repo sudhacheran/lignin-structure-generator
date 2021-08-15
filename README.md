@@ -52,19 +52,21 @@ e) Storing the valid structures forming a dataset <br>
   
 ### Instruction to run the executable version
 
-Download LigninStructureGenerator.jar and config file to local path  
-_project-config.yaml should be placed within "resource" folder as downloaded from [Executable jar and config file](https://github.com/sudhacheran/LigninStructureGenerator/tree/main/Executable%20Jar%20and%20Config)_. 
+#### Windows	
+1) Download Executable_Jar_and_Config_file.zip file to local path  	
 
-![image](https://user-images.githubusercontent.com/18223595/129085991-d36352f6-ae6c-4727-bfac-00cedf65a305.png)
+2) Unzip the file
+     ![image](https://user-images.githubusercontent.com/18223595/129494024-21d86861-27cf-4f2f-bf6d-0c7f816ec392.png)
+	
+     _project-config.yaml should be placed within "resource" folder as downloaded from [Executable jar and config file](https://github.com/sudhacheran/LigninStructureGenerator/tree/main/Executable%20Jar%20and%20Config)_. 
 
+      ![image](https://user-images.githubusercontent.com/18223595/129085991-d36352f6-ae6c-4727-bfac-00cedf65a305.png)
+3) Change lignin structural configurations in [project-config.yaml](https://github.com/sudhacheran/LigninStructureGenerator/blob/main/Executable%20Jar%20and%20Config/resources/project_config.yaml)
 
-#### Windows
-Set JAVA_HOME in Environment variables
+4) Set JAVA_HOME in Environment variables
 
-Configure require structural features in [project-config.yaml](https://github.com/sudhacheran/LigninStructureGenerator/blob/main/Executable%20Jar%20and%20Config/resources/project_config.yaml)
-
-In the command prompt, executue below command
-> java jar LigninStructureGenerator.jar
+5) In the command prompt, executue below command  (move to folder "Executable_Jar_and_Config_file" extracted in Step 2)
+> ...![image](https://user-images.githubusercontent.com/18223595/129494114-0e056e1a-ee99-44da-bef5-7dd6face2c6a.png)
 
 Generated structures will be stored in 'output' folder in the location of the jar file
 
