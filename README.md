@@ -56,6 +56,7 @@ e) Storing the valid structures forming a dataset <br>
 1) Download Executable_Jar_and_Config_file.zip file to local path  	
 
 2) Unzip the file
+	
      _project-config.yaml should be placed within "resource" folder as downloaded from [Executable jar and config file](https://github.com/sudhacheran/LigninStructureGenerator/tree/main/Executable%20Jar%20and%20Config)_. 
       ![image](https://user-images.githubusercontent.com/18223595/129494159-cb8e0b77-ffb2-40f4-ab8c-f15387d4d933.png)
       
@@ -65,7 +66,8 @@ e) Storing the valid structures forming a dataset <br>
 4) Set JAVA_HOME in Environment variables
 
 5) In the command prompt, executue below command  (move to folder "Executable_Jar_and_Config_file" extracted in Step 2)
-> ![image](https://user-images.githubusercontent.com/18223595/129494226-a03431de-0e25-4519-8d83-6dac2cb26107.png)
+> ![image](https://user-images.githubusercontent.com/18223595/129494243-140ccee0-24e9-4f3d-9e78-75055681ea3f.png)
+
 
 Generated structures will be stored in 'output' folder in the location of the jar file
 
