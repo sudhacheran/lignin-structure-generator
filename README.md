@@ -22,7 +22,7 @@ e) Storing the valid structures forming a dataset <br>
 
 ### Configuration file : Configure the structural composition for generating the structure
 
-### **project-config.yaml**
+#### **project-config.yaml**
 
 | Properties                   | Values                | Comments                              |
 | ---------------------------- |---------------------  | --------|
