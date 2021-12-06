@@ -34,7 +34,6 @@ e) Storing the valid structures forming a dataset <br>
   
 ### Instruction to run the executable version 
 
-
 1) Download Executable_Jar_and_Config_file.zip file to local path  	
 
 2) Unzip the file
@@ -47,9 +46,9 @@ e) Storing the valid structures forming a dataset <br>
 
 4) Set JAVA_HOME in Environment variables
 
-5) In the command prompt, executue below command  (move to folder "Executable_Jar_and_Config_file" extracted in Step 2)
-> java -jar lgs_generator.jsr
+5) Move to folder "Executable_Jar_and_Config_file" extracted in Step 2 and Execute the below jar file using below command
 
+	> java -jar lgs_generator.jsr
 
 Generated structures will be stored in 'output' folder in the location of the jar file
 
