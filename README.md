@@ -32,9 +32,9 @@ e) Storing the valid structures forming a dataset <br>
 |Output formats| **# true/false value** <br> _png: false     <br>    matrices: false   <br>    sdf: true    | Enabling to store individual structurual definition in any of the formats <br> # 2D structure <br> # Adjacency and Connectivity Matrix <br> # mol file <br> |
 |Comprehensive dataset|**# true/false value** <br> _json: true_.  | Comprehensive dataset (SMILES and evaluatied properties of the stuctures generated) <br>  #To write json file
   
-### Instruction to run the executable version
+### Instruction to run the executable version 
 
-#### Windows	
+
 1) Download Executable_Jar_and_Config_file.zip file to local path  	
 
 2) Unzip the file
