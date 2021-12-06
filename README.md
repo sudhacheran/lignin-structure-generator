@@ -48,9 +48,9 @@ e) Storing the valid structures forming a dataset <br>
 
 5) Move to folder "Executable_Jar_and_Config_file" extracted in Step 2 and Execute the below jar file using below command
 
-	> java -jar lgs_generator.jsr
+	> java -jar lgs_generator.jar
 
-Generated structures will be stored in 'output' folder in the location of the jar file
+Generated structural data is stored as JSON / CSV / PNG / MOL files in 'output' folder 
 
 ![image](https://user-images.githubusercontent.com/18223595/129085903-555e278c-86ba-489b-8102-e1b8061073e8.png)
 
