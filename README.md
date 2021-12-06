@@ -38,7 +38,7 @@ e) Storing the valid structures forming a dataset <br>
 
 2) Unzip the file
 	
-     _project-config.yaml should be placed within "resource" folder as downloaded from [Executable jar and config file](https://github.com/sudhacheran/LigninStructureGenerator/tree/main/Executable%20Jar%20and%20Config)_. 
+     _project-config.yaml is placed within "resource" folder as downloaded from [Executable jar and config file](https://github.com/sudhacheran/LigninStructureGenerator/tree/main/Executable%20Jar%20and%20Config)_. 
       ![image](https://user-images.githubusercontent.com/18223595/129494159-cb8e0b77-ffb2-40f4-ab8c-f15387d4d933.png)
       
       ![image](https://user-images.githubusercontent.com/18223595/129085991-d36352f6-ae6c-4727-bfac-00cedf65a305.png)
