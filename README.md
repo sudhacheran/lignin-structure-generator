@@ -1,20 +1,3 @@
-# Molecular structural dataset of lignin macromolecule 
-
-## Data records
-
-Dataset can be downloaded in the following formats. 
-
-[![image](https://user-images.githubusercontent.com/18223595/129457605-f9f67df5-0d2c-4250-9800-2aaf96c7195f.png) Download
-](https://github.com/sudhacheran/LigninStructureGenerator/tree/main/Dataset)  
-
-1)	Molecular data file (*.mol):  A widely used chemical structure file format, definition of structures that is supported in most of the molecular dynamics’ software. 
-   
-2)	Connectivity and adjacency matrices (*.csv)
-	 
-3)  Comprehensive dataset (*.json): Structural definition of all possible sequence in SMILES representation, evaluation structural features such as molecular weight, functional group count and bond proportion of simulated structures
-   
-
-
 ## Lignin Structure Generator Tool
 Molecular structure simulation tool for lignin macromolecule. Lignin structure generator uses sequence-controlled structure generation approach for generating polymer chains of length 3 to 25. Workflow includes following functionalities <br>
 
