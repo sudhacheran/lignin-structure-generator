@@ -48,7 +48,7 @@ e) Storing the valid structures forming a dataset <br>
 4) Set JAVA_HOME in Environment variables
 
 5) In the command prompt, executue below command  (move to folder "Executable_Jar_and_Config_file" extracted in Step 2)
-> ![image](https://user-images.githubusercontent.com/18223595/129494243-140ccee0-24e9-4f3d-9e78-75055681ea3f.png)
+> java -jar lgs_generator.jsr
 
 
 Generated structures will be stored in 'output' folder in the location of the jar file
