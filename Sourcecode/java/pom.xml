@@ -4,7 +4,7 @@
 
   <groupId>com</groupId>
   <artifactId>LigninStructureSimulator</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.0</version>
   <packaging>jar</packaging>
   <name>LigninStructureSimulator</name>
   <url>http://maven.apache.org</url>
@@ -89,6 +89,17 @@
     <artifactId>log4j</artifactId>
     <version>1.2.17</version>
 	</dependency>
+	 <dependency>
+       <groupId>org.slf4j</groupId>
+       <artifactId>slf4j-api</artifactId>
+       <version>1.7.5</version>
+   </dependency>
+   <dependency>
+       <groupId>org.slf4j</groupId>
+       <artifactId>slf4j-log4j12</artifactId>
+       <version>1.7.5</version>
+   </dependency>
+	
     <dependency>
     
     <groupId>com.opencsv</groupId>
@@ -115,6 +126,7 @@
 	    <groupId>org.mongodb</groupId>
 	    <artifactId>mongo-java-driver</artifactId>
 	    <version>3.12.8</version>
-	</dependency>	
+	</dependency>
+		
   </dependencies>
 </project>
