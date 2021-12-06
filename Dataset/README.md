@@ -5,4 +5,4 @@ Lignin Structure(LGS) Dataset enumerates lignin chains for degree of polymerizat
 - G type lignin structures which represent spruce milled wood lignin structures with 5.7K polymers
 - SG type lignin structures which represent birch milled wood lignin structures with 56.3K polymers
 
-[![image](https://user-images.githubusercontent.com/18223595/129457605-f9f67df5-0d2c-4250-9800-2aaf96c7195f.png)Dataset can be downloaded from figshare](https://figshare.com/s/f04dbe377992bc8459d9)
+[![image](https://user-images.githubusercontent.com/18223595/129457605-f9f67df5-0d2c-4250-9800-2aaf96c7195f.png)Dataset is available for downloaded from figshare](https://figshare.com/s/f04dbe377992bc8459d9)
