@@ -52,7 +52,7 @@ e) Storing the valid structures forming a dataset <br>
 
 Generated structural data is stored as JSON / CSV / PNG / MOL files in 'output' folder 
 
-![image](https://user-images.githubusercontent.com/18223595/146465974-cb8bdabc-a5d7-43e0-9090-cffe7d148991.png)
+![image](https://user-images.githubusercontent.com/18223595/146466117-87bc92b1-5ecb-4917-8bd3-f036bed92b12.png)
   
 ---
 
