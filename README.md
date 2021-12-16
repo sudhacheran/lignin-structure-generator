@@ -46,9 +46,9 @@ e) Storing the valid structures forming a dataset <br>
 
 4) Set JAVA_HOME in Environment variables
 
-5) In Windows, execute "lgs-run.bat"
+5) In Windows, execute **"lgs-run.bat"**
 	
-   In Linux/Unix and Mac OS, execute "./lgs-run.sh"
+   In Linux/Unix and Mac OS, execute **"./lgs-run.sh"**
 
 Generated structural data is stored as JSON / CSV / PNG / MOL files in 'output' folder 
 
