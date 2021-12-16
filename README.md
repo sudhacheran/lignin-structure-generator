@@ -38,7 +38,7 @@ e) Storing the valid structures forming a dataset <br>
 
 2) Unzip the file
 	
-     _project-config.yaml will be available within "resource" folder as downloaded from Executable jar and config file. 
+     **project-config.yaml** will be available within "resource" folder as downloaded from Executable jar and config file. 
      
 	![image](https://user-images.githubusercontent.com/18223595/129494159-cb8e0b77-ffb2-40f4-ab8c-f15387d4d933.png)
       
@@ -48,9 +48,8 @@ e) Storing the valid structures forming a dataset <br>
 
 4) Set JAVA_HOME in Environment variables
 
-5) Move to folder "Executable_Jar_and_Config_file" extracted in Step 2 and execute the jar file using below command
-
-	> java -jar lgs_generator.jar
+5) In Windows, execute "lgs-run.bat"
+   In Linux/Unix and Mac OS, execute "./lgs-run.sh"
 
 Generated structural data is stored as JSON / CSV / PNG / MOL files in 'output' folder 
 
