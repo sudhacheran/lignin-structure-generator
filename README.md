@@ -40,7 +40,7 @@ e) Storing the valid structures forming a dataset <br>
 	
      **project-config.yaml** will be available within "resource" folder as downloaded from Executable jar and config file. 
      
-	![image](https://user-images.githubusercontent.com/18223595/146465650-8984e73a-86f3-40c6-b2e8-2d45b7e51f82.png)
+	![image](https://user-images.githubusercontent.com/18223595/146465932-091e7c36-272f-4a69-b551-6548fcd27464.png)
 	
 3) Change lignin structural configurations in **project-config.yaml**
 
@@ -52,8 +52,7 @@ e) Storing the valid structures forming a dataset <br>
 
 Generated structural data is stored as JSON / CSV / PNG / MOL files in 'output' folder 
 
-![image](https://user-images.githubusercontent.com/18223595/129085903-555e278c-86ba-489b-8102-e1b8061073e8.png)
-
+![image](https://user-images.githubusercontent.com/18223595/146465974-cb8bdabc-a5d7-43e0-9090-cffe7d148991.png)
   
 ---
 
