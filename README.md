@@ -40,7 +40,7 @@ e) Storing the valid structures forming a dataset <br>
 	
      **project-config.yaml** will be available within "resource" folder as downloaded from Executable jar and config file. 
      
-	![image](https://user-images.githubusercontent.com/18223595/146463695-6c5844ff-b0f4-47a1-ab71-b4c3bde51b97.png)
+	![image](https://user-images.githubusercontent.com/18223595/146464444-956d4158-83ee-4460-b2ca-8f0d3feb3515.png)
 	
 3) Change lignin structural configurations in **project-config.yaml**
 
