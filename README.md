@@ -50,6 +50,10 @@ e) Storing the valid structures forming a dataset <br>
 	
    In Linux/Unix and Mac OS, execute **"./lgs-run.sh"**
 
+	Example: Executing from Window's command prompt
+	
+	![image](https://user-images.githubusercontent.com/18223595/146468231-56cf3919-fb42-4c9c-bd21-460dd9faad3c.png)
+	
 Generated structural data is stored as JSON / CSV / PNG / MOL files in 'output' folder 
 
 ![image](https://user-images.githubusercontent.com/18223595/146466117-87bc92b1-5ecb-4917-8bd3-f036bed92b12.png)
