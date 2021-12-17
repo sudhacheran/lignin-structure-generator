@@ -56,10 +56,6 @@ Generated structural data is stored as JSON / CSV / PNG / MOL files in 'output' 
 	
 ---
 	
-![image](https://user-images.githubusercontent.com/18223595/146466936-bb8ffe11-0270-4f12-9bd3-60c094658647.png)
-  
----
-
 # Illustrations
 
 ## G Type - Model-1
