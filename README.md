@@ -18,7 +18,7 @@ e) Storing the valid structures forming a dataset <br>
 
 ## Executable jar and config file for download
 
-[![image](https://user-images.githubusercontent.com/18223595/129457605-f9f67df5-0d2c-4250-9800-2aaf96c7195f.png) Lignin structure (LGS) generator](https://github.com/sudhacheran/lignin-structure-generator/blob/21376fb3b96cb37e7036e86ce2abd40a4d6de36a/Executable_Jar%20and_Config.zip)
+[![image](https://user-images.githubusercontent.com/18223595/129457605-f9f67df5-0d2c-4250-9800-2aaf96c7195f.png) Lignin structure (LGS) generator](https://github.com/sudhacheran/lignin-structure-generator/blob/0d88cf08d85971118cb98ac52b1b2513779077b3/Executable_Jar_and_Config.zip)
 
 ### Configuration file : Configure the structural composition for generating the structure
 
