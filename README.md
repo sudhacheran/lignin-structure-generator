@@ -42,7 +42,7 @@ e) Storing the valid structures forming a dataset <br>
      
 	![image](https://user-images.githubusercontent.com/18223595/146465932-091e7c36-272f-4a69-b551-6548fcd27464.png)
 	
-3) Change lignin structural configurations in **project-config.yaml**
+3) Edit the lignin structural configurations in **project-config.yaml**
 
 4) Set JAVA_HOME in Environment variables
 
