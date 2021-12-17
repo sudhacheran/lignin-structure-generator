@@ -18,7 +18,7 @@ e) Storing the valid structures forming a dataset <br>
 
 ## Executable jar and config file for download
 
-[![image](https://user-images.githubusercontent.com/18223595/129457605-f9f67df5-0d2c-4250-9800-2aaf96c7195f.png) Lignin structure (LGS) generator](https://github.com/sudhacheran/lignin-structure-generator/blob/7c250d7bde269b78df7e817dba895016616b9234/Executable_Jar_and_Config_file.zip)
+[![image](https://user-images.githubusercontent.com/18223595/129457605-f9f67df5-0d2c-4250-9800-2aaf96c7195f.png) Lignin structure (LGS) generator](https://github.com/sudhacheran/lignin-structure-generator/blob/21376fb3b96cb37e7036e86ce2abd40a4d6de36a/Executable_Jar%20and_Config.zip)
 
 ### Configuration file : Configure the structural composition for generating the structure
 
@@ -40,9 +40,9 @@ e) Storing the valid structures forming a dataset <br>
 	
      **project-config.yaml** will be available within "resource" folder as downloaded from Executable jar and config file. 
      
-	![image](https://user-images.githubusercontent.com/18223595/146463695-6c5844ff-b0f4-47a1-ab71-b4c3bde51b97.png)
+	![image](https://user-images.githubusercontent.com/18223595/146465932-091e7c36-272f-4a69-b551-6548fcd27464.png)
 	
-3) Change lignin structural configurations in **project-config.yaml**
+3) Edit the lignin structural configurations in **project-config.yaml**
 
 4) Set JAVA_HOME in Environment variables
 
@@ -52,11 +52,10 @@ e) Storing the valid structures forming a dataset <br>
 
 Generated structural data is stored as JSON / CSV / PNG / MOL files in 'output' folder 
 
-![image](https://user-images.githubusercontent.com/18223595/129085903-555e278c-86ba-489b-8102-e1b8061073e8.png)
-
-  
+![image](https://user-images.githubusercontent.com/18223595/146466117-87bc92b1-5ecb-4917-8bd3-f036bed92b12.png)
+	
 ---
-
+	
 # Illustrations
 
 ## G Type - Model-1
