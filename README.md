@@ -74,7 +74,7 @@ Generated structural data are stored as JSON / Matrices(*.csv) / MOL V3000(*.mol
 
 
 # Related resources
-> Sudha Eswaran (2021) "Molecular structural dataset of lignin macromolecule elucidating experimental structural compositions "  Manuscript
+> Eswaran, S. c. d., Subramaniam, S., Sanyal, U., Rallo, R. & Zhang, X. Molecular structural dataset of lignin macromolecule elucidating experimental structural compositions. Scientific Data 9, 647, doi:10.1038/s41597-022-01709-4 (2022)
 
 
 
