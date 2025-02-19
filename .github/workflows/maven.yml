@@ -20,12 +20,12 @@ jobs:
         distribution: 'temurin'
         cache: maven
 
-    # Change directory to SourceCode/java, run Maven package, and then run the JAR file
-    - name: Build and Run in SourceCode/java
+    # Change directory to Sourcecode/java, run Maven package, and then run the JAR file
+    - name: Build and Run in Sourcecode/java
       run: |
-        cd SourceCode/java
+        cd Sourcecode/java
         mvn -B package --file pom.xml
-        java -jar target/your-jar-file-name.jar
+        java -jar target/lgs-generator-1.0-jar-with-dependencies.jar
 
     # Optional: Uploads the full dependency graph to GitHub to improve the quality of Dependabot alerts this repository can receive
     - name: Update dependency graph
