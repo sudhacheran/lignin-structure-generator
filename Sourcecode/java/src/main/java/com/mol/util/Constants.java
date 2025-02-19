@@ -1,4 +1,8 @@
 package com.mol.util;
+
+import java.text.DecimalFormatSymbols;
+import java.util.Locale;
+
 /**
  * Constants
  * @author Sudha Eswaran
@@ -57,4 +61,5 @@ public final class Constants {
 	public static String mongo_dbname="lignindata";
 	public static String mongo_collname="ligninstructs_1Dec_test";	
 
+    public static DecimalFormatSymbols US_SYMBOLS = new DecimalFormatSymbols(Locale.US);
 }

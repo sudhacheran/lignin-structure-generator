@@ -97,9 +97,17 @@ public class AdjacencyAndConnectivityMatrix {
 				addEdge(node2 - 1, node1 - 1, new char[] { b2, b1 });
 
 		}
-		DecimalFormat f = new DecimalFormat("##.00");
-		double brachcoeff = (double) (non_root_nodes.size()-1) / (double) non_leaf_nodes.size();
-		branchingFactor = Double.parseDouble(f.format(brachcoeff));
+		try
+		{
+			DecimalFormat f = new DecimalFormat("##.00", Constants.US_SYMBOLS);
+			double brachcoeff = (double) (non_root_nodes.size()-1) / (double) non_leaf_nodes.size();
+			branchingFactor = Double.parseDouble(f.format(brachcoeff));
+		}
+		catch(Exception e)
+		{
+			double brachcoeff = (double) (non_root_nodes.size()-1) / (double) non_leaf_nodes.size();
+			branchingFactor = brachcoeff;
+		}
 
 	}
 

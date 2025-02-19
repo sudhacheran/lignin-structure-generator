@@ -240,9 +240,9 @@ public class GenerateStructure {
 				brachCoeffTotal += ss.getBranchingFactor();
 			}
 			double avgMolWt = molWtTotal / jsonObjLignin.getLigninchains().size();
-			avgMolWt = Double.parseDouble(new DecimalFormat("#.##").format(avgMolWt));
+			avgMolWt = Double.parseDouble(new DecimalFormat("#.##",Constants.US_SYMBOLS).format(avgMolWt));
 			double avfBranchCoeff = brachCoeffTotal / jsonObjLignin.getLigninchains().size();
-			avfBranchCoeff = Double.parseDouble(new DecimalFormat("#.##").format(avfBranchCoeff));			
+			avfBranchCoeff = Double.parseDouble(new DecimalFormat("#.##",Constants.US_SYMBOLS).format(avfBranchCoeff));			
 			jsonObjLignin.setAvgBranchFactor(avfBranchCoeff);
 			jsonObjLignin.setAvgMolWt(avgMolWt);
 			jsonObjLignin.setNunber_of_structs(totlig);	
